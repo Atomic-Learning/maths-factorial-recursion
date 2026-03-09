@@ -1,0 +1,19 @@
+{
+    "title": "Mathematics: Factorial with Recursion",
+    "slug": "maths-factorial-recursion",
+    "description": "Understand the recursive definition of factorial using a base case and a recursive case.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 1,
+    "prerequisites": [
+        "maths-factorial"
+    ],
+    "related": [
+        "maths-factorial-product-notation",
+        "programming-recursive-functions"
+    ]
+}
